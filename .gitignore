@@ -26,3 +26,5 @@ baekjoon/.vs/baekjoon/v15/ipch/AutoPCH/2036c423ef0aa320/8393.ipch
 baekjoon/.vs/baekjoon/v15/ipch/AutoPCH/703d573ee07eadec/10950.ipch
 baekjoon/.vs/baekjoon/v15/ipch/AutoPCH/dae94a3a574e687e/10817.ipch
 baekjoon/baekjoon.sln
+*.ipch
+*.obj
